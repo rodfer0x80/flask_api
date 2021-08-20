@@ -1,2 +1,4 @@
-# flask_api
-Flask JSON API template
+flask_api
+### Short description
+##### SEE LICENSE IN LICENSE
+
